@@ -46,4 +46,3 @@ while not done:
     clock.tick(60)
 
 print("hello world")
- # random commentys rteandom cmmenta
