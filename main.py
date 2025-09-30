@@ -44,3 +44,6 @@ while not done:
     wave_speed += 0.1
     pg.display.flip()
     clock.tick(60)
+
+print("hello world")
+ # random commentys rteandom cmmenta
